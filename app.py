@@ -56,7 +56,7 @@ else:
     apply_filters = False
 
 # Title
-st.title("🎾 SportsRadar Dashboard")
+st.title("🎾Tennis Leaderboard & Insights")
 
 # Fetch Summary Statistics
 summary_query = """
