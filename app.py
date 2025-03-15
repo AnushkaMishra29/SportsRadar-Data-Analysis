@@ -9,7 +9,7 @@ def get_db_connection():
         conn = mysql.connector.connect(
             host="127.0.0.1",
             user="root",
-            password="akgec@1813044",
+            password="abcdefghijklmnopqrstuvwxyz",
             database="sportsradar",
             connection_timeout=10 
         )
